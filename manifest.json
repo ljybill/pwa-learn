@@ -1,0 +1,13 @@
+{
+  "short_name": "小说看看看",
+  "name": "海量优质小说",
+  "icon": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen"
+}
