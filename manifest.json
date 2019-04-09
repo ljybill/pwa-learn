@@ -1,13 +1,32 @@
 {
   "short_name": "小说看看看",
   "name": "海量优质小说",
-  "icon": [
+  "description": "一个PWA网站示例",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#ACE",
+  "theme_color": "#ACE",
+  "icons": [
     {
-      "src": "./icon.png",
-      "type": "image/png",
-      "sizes": "144x144"
+      "src": "./logo/logo072.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo/logo256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ],
-  "start_url": "index.html",
-  "display": "fullscreen"
+  ]
 }
