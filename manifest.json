@@ -2,7 +2,7 @@
   "short_name": "小说看看看",
   "name": "海量优质小说",
   "description": "一个PWA网站示例",
-  "start_url": "/",
+  "start_url": "/pwa-learn/",
   "display": "fullscreen",
   "orientation": "any",
   "background_color": "#ACE",
