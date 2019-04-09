@@ -1,4 +1,4 @@
-const cacheName = 'my-test-cache-v3'
+const cacheName = 'my-test-cache-v4'
 const self = this
 this.addEventListener('install', function(evt) {
   console.log('install success')
