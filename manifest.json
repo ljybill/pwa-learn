@@ -3,7 +3,7 @@
   "name": "海量优质小说",
   "icon": [
     {
-      "src": "icon.png",
+      "src": "./icon.png",
       "type": "image/png",
       "sizes": "144x144"
     }
